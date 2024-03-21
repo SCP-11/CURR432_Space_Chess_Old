@@ -1,0 +1,32 @@
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Ignore Visual Studio files
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.userprefs
+
+# Ignore Rider files
+.idea/
+
+# Ignore miscellaneous files
+*.pidb.meta
+*.pidb
+*.sln.meta
+*.userprefs.meta
+
+# Ignore .vscode/
+.vscode
